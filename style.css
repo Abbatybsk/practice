@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color: #7b0808;
+    text-decoration: underline;
+    text-transform: uppercase;
+    background-color: aquamarine;
+}
+input{
+    margin-bottom: 20px;
+    width: 98%;
+    display: block;
+    padding: 12px; 
+    border-radius: 4px;
+    background-color: rgb(185, 235, 116);
+
+}
+button{
+    margin-bottom: 20px;
+    width: 100%;
+    display: block;
+    padding: 12px; 
+    border-radius: 4px;
+    background-color: rgb(193, 135, 247);
+    
+
+}
+h2{
+    background-color: rgb(116, 232, 232);
+}
+html{
+    background-color: yellowgreen;
+}
+    
